@@ -31,7 +31,7 @@ https://github.com/go-park-mail-ru/lectures/tree/master/1-basics/homework
 и https://github.com/go-park-mail-ru/lectures/blob/master/2-async/99_hw.zip.
 
 Для сдачи вам нужно в ПРИВАТНОМ репозитории на GitHub или GitLab написать код, дать доступ на чтение вашему ментору,
-пройти ревью ментора, дать доступ пользователям `rvasily`, `DmitryDorofeev` и `a-kuchin` и кинуть на проверку
+пройти ревью ментора, дать доступ пользователям `rvasily`, `DmitryDorofeev` и `skinass` и кинуть на проверку
 преподавателю.
 
 ## Рубежный контроль
